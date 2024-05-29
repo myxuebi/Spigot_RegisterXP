@@ -1,0 +1,13 @@
+main: org.spigotmc.registerXP
+name: RegisterXP
+version: '1.0'
+description: A Register plugin
+load: POSTWORLD
+author: myxuebi@outlook.com
+website: spigotmc.org
+commands:
+  register:
+    description: Register
+    aliases:
+      - register
+    usage: /register

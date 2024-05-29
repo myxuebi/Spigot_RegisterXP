@@ -1,0 +1,8 @@
+min-xp: 1395
+max-xp: 3950
+message:
+  title: "§a签到成功！"
+  info: "§b今日获得的经验："
+  register: "§c你今天已经签到过了！"
+  exp: "§b你提升的等级："
+player: {}
